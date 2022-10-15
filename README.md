@@ -1,4 +1,5 @@
 <p align="center">
+
 ## Hello, I am Ganiu Akowanu 👋,
 
 I am an astute😄 Software Engineer with a huge focus on Backend Development, I pay keen attention to details and make meaningful sense off them.
@@ -16,4 +17,5 @@ I like to see my self as a Programmer or a Full-stack developer with a mixture o
 Whenever I'm not on my laptop coding, I am listening to Quranic recitations, discussing with friends or exploring nature by talking a walk down the street.
 
 Have a little something you want to talk to me about? [Send a mail](mailto:ganiu.akowanu@gmail.com)
+
 </p>
