@@ -1,4 +1,4 @@
-## Hello, I am Ganiu Akowanu 👋,
+### Hello, I am Ganiu Akowanu 👋,
 I am an astute😄 Software Engineer with a huge focus on Backend Development, I pay keen attention to details and make meaningful sense off them.
 
 Currently, a Backend engineer at [ERA](https://emergencyresponseafrica.com). My full work history can be found [here](https://linkedin.com/in/ganiu-akowanu-431a59185).
