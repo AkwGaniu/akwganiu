@@ -1,5 +1,6 @@
 <p align="center">
 ## Hello, I am Ganiu Akowanu 👋,
+</p>
 <p align="center">
 I am an astute😄 Software Engineer with a huge focus on Backend Development, I pay keen attention to details and make meaningful sense off them.
 </p>
