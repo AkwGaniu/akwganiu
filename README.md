@@ -11,6 +11,6 @@ Talk about Software Development and a problem solver, I am your sure guy 👯 ..
 
 I like to see my self as a Programmer or a Full-stack developer with a mixture of other stuff. However, I am much more comfortable working on stuff on the backend.
 
-Whenever I'm not on my laptop coding, I am listening to Quranic recitations, discussing with friends or exploring nature by talking a walk down the street.
+Whenever I'm not on my laptop coding, I am listening to Quranic recitations, discussing with friends or exploring nature by taking a walk down the street.
 
 Have a little something you want to talk to me about? [Send a mail](mailto:ganiu.akowanu@gmail.com)
